@@ -48,7 +48,7 @@ exit(0);}
 
 ## 1.To Write a C program that illustrates files copying 
 
-![Screenshot 2024-04-25 105318](https://github.com/Bakkiyalakshmiethiraj/Linux-File-IO-Systems-locking/assets/144870983/46d4be2a-a2c8-4b34-9687-dec2167fcbdb)
+![Screenshot 2024-04-25 110908](https://github.com/Bakkiyalakshmiethiraj/Linux-File-IO-Systems-locking/assets/144870983/b7adc829-431b-42a8-806c-5860c07fb9b4)
 
 ## 2.To Write a C program that illustrates files locking
 
